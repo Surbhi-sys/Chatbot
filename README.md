@@ -1,4 +1,5 @@
-Libraries that need to be installed for running this code are 
+Libraries that need to be installed for running this code are :
+
 requests, BeautifulSoup, sqlite3, SentenceTransformer, numpy, pickle,scipy.spatial.distance, openai, streamlit
 
 
