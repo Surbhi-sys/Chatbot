@@ -7,7 +7,7 @@ from scipy.spatial.distance import cosine
 from openai import OpenAI
 import openai
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='your API key')
 import streamlit as st
 
 # Constants
